@@ -1,6 +1,6 @@
 # [Ghost](https://en.ghost.org/)
 
-ElasticSearch 0.3.2
+Ghost 0.3.2
 
 * `docker build -t ghost .`
 * `docker run -e NODE_ENV=production ghost`
